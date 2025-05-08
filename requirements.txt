@@ -1,0 +1,13 @@
+transformers
+accelerate
+peft
+torch
+bitsandbytes
+pydantic
+requests
+pillow
+huggingface_hub
+python-dotenv
+datasets
+streamlit
+fastapi[standard]
