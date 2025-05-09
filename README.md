@@ -1,6 +1,4 @@
-Here's an enhanced and **attractive version** of your project documentation. It includes better formatting, clearer sections, and visual/semantic emphasis to improve readability and engagement for developers and stakeholders.
 
----
 
 # 🚀 Multimodal Chatbot with **Gemma**, **BLIP**, and **Whisper**
 
@@ -212,4 +210,3 @@ streamlit run app.py
 
 ---
 
-Would you like me to create a **visual diagram**, an **HTML readme**, or convert this into a **presentation format**?
